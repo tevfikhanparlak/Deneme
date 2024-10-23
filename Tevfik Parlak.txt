@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-My name is Tevfik Han Parlak, and I have 
-successfully contributed to the project repository.
-=======
 My name is Tevfik Han Parlak, and I have 
 successfully contributed to the project repository.
 
-commit ne ama anlamadım hiç
->>>>>>> 2fdafa080ffa10b6fa64c13f697494b09104863b
+My name is Tevfik Han Parlak, and I have 
+successfully contributed to the project repository.aaaaaaaaaaa
+
